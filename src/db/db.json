@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "Hannah Thompson",
+    "phone": "1-663-292-0282 x67680",
+    "email": "Peggie.Grimes@yahoo.com",
+    "job": "Corporate Paradigm Administrator"
+  },
+  {
+    "name": "Mrs. Jill Cremin Jr.",
+    "phone": "727-501-8726 x414",
+    "email": "Gina33@gmail.com",
+    "job": "International Configuration Specialist"
+  },
+  {
+    "name": "Glen Lynch",
+    "phone": "(732) 816-6961",
+    "email": "Americo.Bednar52@gmail.com",
+    "job": "District Factors Director"
+  },
+  {
+    "name": "Cheryl Pfannerstill",
+    "phone": "847-922-3181 x776",
+    "email": "Adolf.Wintheiser@gmail.com",
+    "job": "Global Response Executive"
+  },
+  {
+    "name": "Susie Kuhn V",
+    "phone": "743-224-4525 x4783",
+    "email": "Wendell.Gleason@gmail.com",
+    "job": "Future Implementation Developer"
+  },
+  {
+    "name": "Lori Baumbach",
+    "phone": "(570) 286-8256 x378",
+    "email": "Pete57@hotmail.com",
+    "job": "Investor Integration Representative"
+  }
+]
